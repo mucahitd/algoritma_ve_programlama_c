@@ -1,4 +1,4 @@
-algoritma_ve_programlama_c
+# algoritma_ve_programlama_c
 
 Fırat üniversitesi yazılım mühendisliği 1. sınıf 1. dönem algoritma dersi c örnekleri 
 
