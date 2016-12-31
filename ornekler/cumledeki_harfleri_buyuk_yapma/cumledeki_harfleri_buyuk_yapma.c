@@ -1,12 +1,4 @@
-/*
- ============================================================================
- Name        : cumledeki_harfleri_buyuk_yapma.c
- Author      : 
- Version     :
- Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
- ============================================================================
- */
+
 
 #include <stdio.h>
 #include <ctype.h>
