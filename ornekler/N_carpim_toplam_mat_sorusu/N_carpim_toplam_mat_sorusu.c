@@ -1,12 +1,3 @@
-/*
- ============================================================================
- Name        : N_carpim_toplam_mat_sorusu.c
- Author      : 
- Version     :
- Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
- ============================================================================
- */
 
 #include <stdio.h>
 
