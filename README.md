@@ -15,3 +15,7 @@ Fırat üniversitesi yazılım mühendisliği 1. sınıf 1. dönem algoritma der
 //---> Denerken bozduğum, yanlış yazdığım, düzeltilmesi gerekenleri vaktim oldukça güncelleyeceğim. 
 
 //---> Belki de yüzlerce öğrenci bu kaynaktan faydalanacak bu yüzden sizlerde katkıda bulunmaya çalışın lütfen.
+
+===>>> [Örneklerin hepsine ulaşmak için bu linki kullanabilirsiniz](https://github.com/mucahitd/algoritma_ve_programlama_c/wiki)
+
+
