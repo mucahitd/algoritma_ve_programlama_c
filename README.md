@@ -21,5 +21,5 @@ Fırat üniversitesi yazılım mühendisliği 1. sınıf 1. dönem algoritma der
 
 //---> Belki de yüzlerce öğrenci bu kaynaktan faydalanacak bu yüzden sizlerde katkıda bulunmaya çalışın lütfen.
 
- [Twitter ======>>>>>> ](https://twitter.com/mchtdmrhn/) 
+ [Twitter hesabım ](https://twitter.com/mchtdmrhn/) 
 
