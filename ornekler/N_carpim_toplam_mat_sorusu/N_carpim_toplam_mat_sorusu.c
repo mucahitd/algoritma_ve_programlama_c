@@ -13,11 +13,11 @@ int main() {
 
 		toplam=i+toplam;   }
 
-	for(j=5; j<N; j=j+2)     {
+	for(j=5; j<N; j=j+2)     { 	// j=j+2 j'yi 2şer 2şer artırır
 
-		tek_carpim=j*tek_carpim; }
+		tek_carpim=j*tek_carpim; } 
 
-	for(k=14; k<N; k=k+2)    {
+	for(k=14; k<N; k=k+2)    {	// k=k+2 j'yi 2şer 2şer artırır
 
 		cift_toplam=k+cift_toplam; }
 
