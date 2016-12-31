@@ -9,6 +9,8 @@ Fırat üniversitesi yazılım mühendisliği 1. sınıf 1. dönem algoritma der
 
 ------------------------------------------------Önemli bilgiler------------------------------------------------ 
 
+//---> C dili en temel dildir. Algoritma mantığının anlaşılması yazılıma başlamak için ideal bir dildir.
+
 //---> Bu örnekler C programlama dersi alanlar, c öğrenmek isteyenler için temel olacaktır. 
 
 //---> Örnekleri derste verilen ödevlerden ve kendi çalıştığım kaynaklardan derledim. 
