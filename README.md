@@ -2,7 +2,7 @@
 
 Fırat üniversitesi yazılım mühendisliği 1. sınıf 1. dönem algoritma dersi c örnekleri 
 
-======>>>>>> [Örneklere ulaşmak için bu linki kullanabilirsiniz](https://github.com/mucahitd/algoritma_ve_programlama_c/wiki) <<<<<<======
+======>>>>>> [Örneklere ulaşmak için bu linki kullanın lütfen](https://github.com/mucahitd/algoritma_ve_programlama_c/wiki) <<<<<<======
 
 
 
