@@ -1,12 +1,4 @@
-/*
- ============================================================================
- Name        : elemani_kendisi_kadar_yazdirma.c
- Author      : 
- Version     :
- Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
- ============================================================================
- */
+
 
 #include <stdio.h>
 
