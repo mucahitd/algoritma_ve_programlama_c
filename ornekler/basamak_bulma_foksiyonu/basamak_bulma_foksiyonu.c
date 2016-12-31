@@ -20,7 +20,7 @@
 
 		printf("bir sayı giriniz");
 
-			fgets(sayi, sizeof(sayi), stdin);
+			fgets(sayi, sizeof(sayi), stdin); // gets yerine fgets kullanmaya çalışın
 
 			basamak_sayisi=strlen(sayi);
 
