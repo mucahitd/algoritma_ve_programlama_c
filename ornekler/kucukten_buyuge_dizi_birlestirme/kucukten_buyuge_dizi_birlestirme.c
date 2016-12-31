@@ -1,12 +1,4 @@
-/*
- ============================================================================
- Ndizi3me        : kucukten_buyuge_dizi_birlestirme.c
- dizi3uthor      :
- Version     :
- Copyright   : Your copyright notice
- Description : Hello World in C, dizi3nsi-style
- ============================================================================
- */
+
 
 #include <stdio.h>
 
